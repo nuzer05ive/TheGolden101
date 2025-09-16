@@ -1,6 +1,6 @@
 # SP1RL Viewer — Netlify-ready Next.js (App Router)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=<YOUR_REPO_URL>)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nuzer05ive/TheGolden101.git)
 
 > **How to use the button**
 > 1) Push this folder to your own GitHub (public or private with Netlify GitHub app access).  
